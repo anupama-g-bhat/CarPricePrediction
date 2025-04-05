@@ -32,7 +32,4 @@ This project explores a dataset of used cars to build a machine learning model t
    - Evaluated with `R² score` and `Mean Squared Error`
    - Plotted Actual vs Predicted Prices
 
-## 📈 Sample Output
 
-- **R² Score:** ~0.64 (varies depending on filtered data)
-- **Visualization:** Scatter plot comparing actual vs predicted prices
